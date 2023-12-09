@@ -5,15 +5,6 @@
 
 I'm a passionate software engineer and tech enthusiast exploring the realms of technology.I thrive on turning ideas into code and solving real-world problems.
 
-<!-- Your skills and expertise -->
-## 💻 Technologies & Tools
-- **Languages:** Python, JavaScript, Java
-- **Web Development:** React, Node.js, Flask
-- **Frontend:** HTML, CSS, SASS
-- **Version Control:** Git
-- **Containers:** Docker, Kubernetes
-- **Databases:** MongoDB, PostgreSQL, MySQL
-
 <!-- Your current projects -->
 <!--## 🚀 Current Projects-->
 <!--- **Project C:** Short description and [link](project_c_link)*/-->
