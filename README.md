@@ -12,10 +12,9 @@ I'm a passionate software engineer and tech enthusiast exploring the realms of t
 
 <!-- Connect with me -->
 ## 🌐 Connect with Me
-  <a href="http://sachinaryan.epizy.com/">🌐 Portfolio</a></br>
-  <a href="https://twitter.com/_sachusachin"><img src="twitter.svg" height="30" width="30" alt="Twitter"></a></br>
-  <a href="https://www.linkedin.com/in/sachin-kumar-201485193/"><img src="linkedin.svg" height="30" width="30" alt="LinkedIn"></a></br>
-
+<a href="http://sachinaryan.epizy.com/" style="border: 1px solid greenyellow; border-radius: 0px; margin: 6px; padding: 10px; color: white; text-align: center; text-decoration: none;">🌐 Portfolio</a>
+    <a href="https://twitter.com/_sachusachin" style="border: 1px solid greenyellow; border-radius: 0px; margin: 6px; padding: 10px; color: white; text-align: center; text-decoration: none; align-items: center; display: flex; justify-content: space-around;"><img src="./twitter.png" height="20" width="20" alt="Twitter"/><span style="margin-left: 8px;"> Twitter</span></a>
+    <a href="https://www.linkedin.com/in/sachin-kumar-201485193/" style="border: 1px solid greenyellow; border-radius: 0px; margin: 6px; padding: 10px; color: white; text-align: center; text-decoration: none; align-items: center; display: flex; justify-content: space-around;"><img src="./linkedin.png" height="20" width="20" alt="LinkedIn"/><span style="margin-left: 8px;"> LinkedIn</span></a>
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
